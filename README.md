@@ -1,7 +1,7 @@
-<a href="https://github.com/RouxRhett/github-readme-stats">
+<a href="https://github.com/RouxRhett">
   <img align="left"　alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxRhett&layout=compact&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/RouxRhett/github-readme-stats">
+<a href="https://github.com/RouxRhett">
   <img align="left"　alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RouxRhett&theme=dracula&show_icons=ture" />
 </a>
 
