@@ -1,7 +1,9 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxRhett&layout=compact&show_icons=true&theme=dracula" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RouxRhett&theme=dracula&show_icons=ture" />
-</p>
+<a href="https://github.com/RouxRhett/github-readme-stats">
+  <img align="left"　alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxRhett&layout=compact&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/RouxRhett/github-readme-stats">
+  <img align="left"　alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RouxRhett&theme=dracula&show_icons=ture" />
+</a>
 
 <!--
 **RouxRhett/RouxRhett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
